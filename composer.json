@@ -12,7 +12,7 @@
     },
 
     "require-dev": {
-        "bossa/phpspec2-expect": "~1.0"
+       
     },
 
     "extra" : {
