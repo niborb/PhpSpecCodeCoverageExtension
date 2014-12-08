@@ -8,7 +8,6 @@
     },
 
    "require" : {
-        "phpspec/phpspec"           : "~2.0",
         "phpunit/php-code-coverage" : "~2.0",
         "ext-xdebug"                : ">=2.1.4"
     },
