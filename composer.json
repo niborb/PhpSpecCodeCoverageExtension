@@ -8,7 +8,7 @@
     },
 
     "require" : {
-        "ext-xdebug"                : ">=2.1.4"
+        
     },
 
     "require-dev": {
